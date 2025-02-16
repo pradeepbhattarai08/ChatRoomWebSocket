@@ -20,3 +20,4 @@ print(f'Socket has successfully connected to github on port = {host_ip}')
 
 
 
+## This code makes connection to the external github server on port 80 and prints the message that the connection is successful.
